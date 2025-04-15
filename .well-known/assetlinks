@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.dc.flutter.exercise_1",
+    "package_name": "com.dc.flutter.go_router1",
     "sha256_cert_fingerprints":
     ["2A:38:93:F7:17:85:5B:AB:17:7B:CA:CA:62:ED:13:9E:2F:19:9C:0C:6B:1C:3C:E0:FF:58:8A:9A:25:04:CC:B1"]
   }
